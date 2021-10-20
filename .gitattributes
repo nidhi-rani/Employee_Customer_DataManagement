@@ -1,2 +1,3 @@
+*.jdbc linguist-detectable=true
 *.java linguist-detectable=true
-*.jdbc linguist-detectable=false
+
